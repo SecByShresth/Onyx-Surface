@@ -40,7 +40,7 @@ You can host this project directly on **GitHub Pages**!
 1.  Fork this repository.
 2.  Go to **Settings** > **Pages**.
 3.  Select **Source**: `Deploy from a branch` (main / root).
-4.  Visit your site at `https://your-username.github.io/onyx-surface/`.
+4.  Visit your site at `https://SecByShresth.github.io/onyx-surface/`.
 
 ## 💻 Local Development
 
@@ -88,3 +88,4 @@ MIT License. Free for enterprise and personal use.
 ---
 
 **Built with ❤️ for the security community**
+
